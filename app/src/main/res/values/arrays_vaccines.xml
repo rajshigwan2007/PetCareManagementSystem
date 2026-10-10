@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ============ DOG VACCINES ============ -->
+    <string-array name="vaccines_dog">
+        <item>Rabies</item>
+        <item>DHPP (Distemper, Hepatitis, Parvo, Parainfluenza)</item>
+        <item>Bordetella</item>
+        <item>Leptospirosis</item>
+        <item>Canine Influenza</item>
+        <item>Corona</item>
+        <item>Lyme Disease</item>
+        <item>Parvovirus</item>
+        <item>Hepatitis</item>
+        <item>Distemper</item>
+    </string-array>
+
+    <!-- ============ CAT VACCINES ============ -->
+    <string-array name="vaccines_cat">
+        <item>FVRCP (Rhinotracheitis, Calicivirus, Panleukopenia)</item>
+        <item>Rabies</item>
+        <item>FeLV (Feline Leukemia)</item>
+        <item>FIV (Feline Immunodeficiency)</item>
+        <item>Chlamydophila</item>
+        <item>Bordetella</item>
+        <item>Giardia</item>
+        <item>FIP (Feline Infectious Peritonitis)</item>
+        <item>Ringworm</item>
+        <item>Panleukopenia</item>
+    </string-array>
+
+    <!-- ============ BIRD VACCINES ============ -->
+    <string-array name="vaccines_bird">
+        <item>Polyomavirus</item>
+        <item>Poxvirus</item>
+        <item>Newcastle Disease</item>
+        <item>Avian Influenza</item>
+        <item>Marek Disease</item>
+        <item>Infectious Bronchitis</item>
+        <item>Psittacosis</item>
+        <item>Pacheco Disease</item>
+        <item>West Nile Virus</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ FISH VACCINES ============ -->
+    <string-array name="vaccines_fish">
+        <item>Vibriosis</item>
+        <item>Enteric Redmouth</item>
+        <item>Furunculosis</item>
+        <item>Spring Viremia</item>
+        <item>Koi Herpesvirus</item>
+        <item>Ichthyophthirius</item>
+        <item>Columnaris</item>
+        <item>Streptococcosis</item>
+        <item>Aeromonas</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ RABBIT VACCINES ============ -->
+    <string-array name="vaccines_rabbit">
+        <item>Myxomatosis</item>
+        <item>Viral Hemorrhagic Disease (VHD)</item>
+        <item>Rabbit Calicivirus</item>
+        <item>Pasteurellosis</item>
+        <item>Coccidiosis</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ HAMSTER VACCINES ============ -->
+    <string-array name="vaccines_hamster">
+        <item>Rabies</item>
+        <item>Distemper</item>
+        <item>Parvovirus</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ TURTLE VACCINES ============ -->
+    <string-array name="vaccines_turtle">
+        <item>Ranavirus</item>
+        <item>Herpesvirus</item>
+        <item>Mycoplasma</item>
+        <item>Salmonella</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ COW VACCINES ============ -->
+    <string-array name="vaccines_cow">
+        <item>Foot and Mouth Disease (FMD)</item>
+        <item>Brucellosis</item>
+        <item>Anthrax</item>
+        <item>Haemorrhagic Septicemia</item>
+        <item>Black Quarter</item>
+        <item>Rabies</item>
+        <item>Bovine Viral Diarrhea (BVD)</item>
+        <item>Infectious Bovine Rhinotracheitis (IBR)</item>
+        <item>Mastitis</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ GOAT VACCINES ============ -->
+    <string-array name="vaccines_goat">
+        <item>Peste des Petits Ruminants (PPR)</item>
+        <item>Foot and Mouth Disease (FMD)</item>
+        <item>Anthrax</item>
+        <item>Haemorrhagic Septicemia</item>
+        <item>Brucellosis</item>
+        <item>Tetanus</item>
+        <item>Enterotoxemia</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ HORSE VACCINES ============ -->
+    <string-array name="vaccines_horse">
+        <item>Tetanus</item>
+        <item>Influenza</item>
+        <item>Equine Herpesvirus</item>
+        <item>Rabies</item>
+        <item>West Nile Virus</item>
+        <item>Strangles</item>
+        <item>Potomac Horse Fever</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

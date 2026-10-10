@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ============ PET CATEGORIES ============ -->
+    <string-array name="pet_categories">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Bird</item>
+        <item>Fish</item>
+        <item>Rabbit</item>
+        <item>Hamster</item>
+        <item>Turtle</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Horse</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ DOG BREEDS ============ -->
+    <string-array name="breeds_dog">
+        <item>Labrador</item>
+        <item>German Shepherd</item>
+        <item>Pug</item>
+        <item>Beagle</item>
+        <item>Poodle</item>
+        <item>Rottweiler</item>
+        <item>Doberman</item>
+        <item>Siberian Husky</item>
+        <item>Golden Retriever</item>
+        <item>Indie (Desi)</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ CAT BREEDS ============ -->
+    <string-array name="breeds_cat">
+        <item>Persian</item>
+        <item>Siamese</item>
+        <item>Maine Coon</item>
+        <item>Bengal</item>
+        <item>Ragdoll</item>
+        <item>British Shorthair</item>
+        <item>Sphynx</item>
+        <item>Abyssinian</item>
+        <item>Indie (Desi)</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ BIRD BREEDS ============ -->
+    <string-array name="breeds_bird">
+        <item>Parrot</item>
+        <item>Pigeon</item>
+        <item>Cockatiel</item>
+        <item>Budgie</item>
+        <item>Lovebird</item>
+        <item>Macaw</item>
+        <item>Canary</item>
+        <item>Finch</item>
+        <item>Sparrow</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ FISH BREEDS ============ -->
+    <string-array name="breeds_fish">
+        <item>Goldfish</item>
+        <item>Betta</item>
+        <item>Guppy</item>
+        <item>Molly</item>
+        <item>Angelfish</item>
+        <item>Neon Tetra</item>
+        <item>Koi</item>
+        <item>Oscar</item>
+        <item>Discus</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ RABBIT BREEDS ============ -->
+    <string-array name="breeds_rabbit">
+        <item>Holland Lop</item>
+        <item>Netherland Dwarf</item>
+        <item>Lionhead</item>
+        <item>Rex</item>
+        <item>Flemish Giant</item>
+        <item>Mini Rex</item>
+        <item>Dutch</item>
+        <item>Angora</item>
+        <item>California</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ HAMSTER BREEDS ============ -->
+    <string-array name="breeds_hamster">
+        <item>Syrian</item>
+        <item>Dwarf Campbell</item>
+        <item>Winter White</item>
+        <item>Roborovski</item>
+        <item>Chinese</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ TURTLE BREEDS ============ -->
+    <string-array name="breeds_turtle">
+        <item>Red-Eared Slider</item>
+        <item>Box Turtle</item>
+        <item>Painted Turtle</item>
+        <item>Musk Turtle</item>
+        <item>Softshell</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ COW BREEDS ============ -->
+    <string-array name="breeds_cow">
+        <item>Holstein Friesian</item>
+        <item>Jersey</item>
+        <item>Gir</item>
+        <item>Sahiwal</item>
+        <item>Red Sindhi</item>
+        <item>Tharparkar</item>
+        <item>Kankrej</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ GOAT BREEDS ============ -->
+    <string-array name="breeds_goat">
+        <item>Boer</item>
+        <item>Saanen</item>
+        <item>Alpine</item>
+        <item>Nubian</item>
+        <item>Jamunapari</item>
+        <item>Beetal</item>
+        <item>Osmanabadi</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ HORSE BREEDS ============ -->
+    <string-array name="breeds_horse">
+        <item>Thoroughbred</item>
+        <item>Arabian</item>
+        <item>Marwari</item>
+        <item>Kathiawari</item>
+        <item>Quarter Horse</item>
+        <item>Appaloosa</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- ============ GENDER ============ -->
+    <string-array name="pet_genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
